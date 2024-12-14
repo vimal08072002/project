@@ -1,4 +1,4 @@
-class grt {
+class gtr {
   String name="vimal";
   int age=22;
   public static void main(String args[]){
